@@ -1,2 +1,2 @@
-# Java_sscipt
+# Java_script
 A code repo for java script
